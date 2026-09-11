@@ -1,4 +1,4 @@
-export const BOOKING_URL = 'BOOKING_URL'
+export const BOOKING_URL = '#top'
 
 export const NAV_LINKS = [
   { label: 'Услуги', href: '#services' },
@@ -60,31 +60,31 @@ export const WORKS = [
 
 export const TEAM = [
   {
-    name: 'Анна Морозова',
+    name: 'Анна',
     role: 'Top stylist',
     focus: 'Колористика / Airtouch / Blonde',
     photo: '/team-1.png',
   },
   {
-    name: 'Елена Воронова',
+    name: 'Елена',
     role: 'Senior stylist',
     focus: 'Стрижки / Balayage',
     photo: '/team-2.png',
   },
   {
-    name: 'Мария Белова',
+    name: 'Мария',
     role: 'Color expert',
     focus: 'Сложные окрашивания',
     photo: '/team-3.png',
   },
   {
-    name: 'София Орлова',
+    name: 'София',
     role: 'Stylist',
     focus: 'Blonde / уход',
     photo: '/team-4.png',
   },
   {
-    name: 'Алина Романова',
+    name: 'Алина',
     role: 'Brow artist',
     focus: 'Архитектура / окрашивание бровей',
     photo: '/team-5.png',

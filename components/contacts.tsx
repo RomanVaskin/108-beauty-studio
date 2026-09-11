@@ -3,10 +3,9 @@ import { SectionHeading } from '@/components/section-heading'
 import { BookButton } from '@/components/book-button'
 
 const DETAILS = [
-  { label: 'Адрес', lines: ['Москва', 'Ленинградский проспект, 48'] },
-  { label: 'Метро', lines: ['м. Аэропорт', '3 минуты пешком'] },
-  { label: 'Телефон', lines: ['+7 999 108-10-80'] },
-  { label: 'Email', lines: ['hello@studio108.demo'] },
+  { label: 'Адрес', lines: ['Москва'] },
+  { label: 'Телефон', lines: ['+7 (000) 000-00-00'] },
+  { label: 'Email', lines: ['demo@example.com'] },
   { label: 'Часы работы', lines: ['Ежедневно', '10:00–22:00'] },
 ]
 
